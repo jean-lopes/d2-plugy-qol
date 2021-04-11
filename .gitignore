@@ -1,4 +1,15 @@
-!*.dll
-!*/*.dll
 .DS_Store
 reset.sh
+*.bin
+*.mpq
+*.exe
+*.log
+*.html
+*.dll
+/Diablo II/patch.txt
+/Diablo II/D2.LNG
+/Diablo II/Save
+/Diablo II/*.txt
+/Diablo II/*.key
+/Diablo II/*.url
+/Diablo II/*.lnk
